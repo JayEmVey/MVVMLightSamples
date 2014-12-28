@@ -2,7 +2,6 @@
   <!--  Application Resources  -->
   <Application.Resources>
     <local:LocalizedStrings xmlns:local="clr-namespace:MVVMLightSample" x:Key="LocalizedStrings" />
-    <vm:ViewModelLocator xmlns:vm="clr-namespace:MVVMLightSample.ViewModel" x:Key="Locator" d:IsDataSource="True" />
     <vm:ViewModelLocator x:Key="Locator" d:IsDataSource="True" xmlns:vm="clr-namespace:MVVMLightSample.ViewModel" />
   </Application.Resources>
   <Application.ApplicationLifetimeObjects>
